@@ -24,4 +24,6 @@
 
 4. <b>Dasar Pemrograman Di Javascript</b><br>Operasi dasar aritmatika</br>
 ![](Foto/foto9.png)
-![](Foto/foto10.png)
+![](Foto/foto10.png)<p>Seleksi kondisi (if..else)</p>
+![](Foto/foto11.png)
+![](Foto/foto12.png)
