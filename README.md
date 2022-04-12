@@ -21,3 +21,7 @@
 ![](Foto/foto6.png)
 ![](Foto/foto7.png)<p>Pembuatan fungsi dan cara pemanggilannya. Masukkanlah kode berikut:</p>
 ![](Foto/foto8.png)
+
+4. <b>Dasar Pemrograman Di Javascript</b><br>Operasi dasar aritmatika</br>
+![](Foto/foto9.png)
+![](Foto/foto10.png)
