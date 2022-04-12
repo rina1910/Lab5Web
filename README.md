@@ -26,4 +26,8 @@
 ![](Foto/foto9.png)
 ![](Foto/foto10.png)<p>Seleksi kondisi (if..else)</p>
 ![](Foto/foto11.png)
-![](Foto/foto12.png)
+![](Foto/foto12.png)<p>Penggunaan operator switch untuk seleksi kondisi</p>
+![](Foto/foto13.png)<p>Ini hasil dari kode tersebut</p>
+![](Foto/foto14.png)<p>Saya membuat angka 5, lalu saya klik ok</p>
+![](Foto/foto15.png)<p>Ini hasil dari kode tersebut</p>
+![](Foto/foto16.png)
