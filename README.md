@@ -5,3 +5,22 @@
 | ----------- | ----------- |
 | <strong>NIM</strong>     | <strong>312010190</strong>       |
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
+
+# Langkah-langkah Praktikum 5 "Javascript"
+
+1. Pertama - tama membuka VSCode
+ ![](Foto/foto1.png)
+
+2. Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b> beserta masukan kode berikut:
+ ![](Foto/foto2.png)<p>Ini hasil dari kode tersebut</p>
+ ![](Foto/foto3.png)
+
+3. Javascrip Dasar
+Pemakaian Alert sebagai property window. Masukkanlah kode berikut:
+![](Foto/foto2.png)
+Pemakaian method dalam objek. Masukkanlah kode berikut:
+![](Foto/foto3.png)
+Pemakaian Prompt. Masukkanlah kode berikut:
+![](Foto/foto4.png)
+Pembuatan fungsi dan cara pemanggilannya. Masukkanlah kode berikut:
+![](Foto/foto5.png)
