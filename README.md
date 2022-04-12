@@ -29,5 +29,8 @@
 ![](Foto/foto12.png)<p>Penggunaan operator switch untuk seleksi kondisi</p>
 ![](Foto/foto13.png)<p>Ini hasil dari kode tersebut</p>
 ![](Foto/foto14.png)<p>Saya membuat angka 5, lalu saya klik ok</p>
-![](Foto/foto15.png)<p>Ini hasil dari kode tersebut</p>
+![](Foto/foto15.png)<p>Ini hasilnya</p>
 ![](Foto/foto16.png)
+
+5. <b>Pembuatan Form</b><br>Form Input</br>
+![](Foto/foto17.png)
