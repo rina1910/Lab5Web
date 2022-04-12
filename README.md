@@ -16,6 +16,6 @@
  ![](Foto/foto3.png)
 
 3. <b>Javascrip Dasar</b><br>Pemakaian Alert sebagai property window. Masukkanlah kode berikut:</br>
-![](Foto/foto4.png)
-<p>Pemakaian method dalam objek. Masukkanlah kode berikut:</p>
-![](Foto/foto5.png)
+![](Foto/foto4.png)<p>Pemakaian method dalam objek. Masukkanlah kode berikut:</p>
+![](Foto/foto5.png)<p>Pemakaian Prompt. Masukkanlah kode berikut:</p>
+![](Foto/foto6.png)
