@@ -15,12 +15,7 @@
  ![](Foto/foto2.png)<p>Ini hasil dari kode tersebut</p>
  ![](Foto/foto3.png)
 
-3. Javascrip Dasar
-Pemakaian Alert sebagai property window. Masukkanlah kode berikut:
-![](Foto/foto2.png)
-Pemakaian method dalam objek. Masukkanlah kode berikut:
-![](Foto/foto3.png)
-Pemakaian Prompt. Masukkanlah kode berikut:
+3. <b>Javascrip Dasar</b><br>Pemakaian Alert sebagai property window. Masukkanlah kode berikut:</br>
 ![](Foto/foto4.png)
-Pembuatan fungsi dan cara pemanggilannya. Masukkanlah kode berikut:
+<p>Pemakaian method dalam objek. Masukkanlah kode berikut:</p>
 ![](Foto/foto5.png)
