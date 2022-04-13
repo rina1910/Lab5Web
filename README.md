@@ -37,3 +37,7 @@
 ![](Foto/foto18.png)<p>Ini hasil dari kode tersebut</p>
 ![](Foto/foto19.png)<p>Lalu saya klik latar belakang hijau dan teks kuning, inilah hasilnya</p>
 ![](Foto/foto20.png)
+
+6. <b>HTML DOM</b><br>Pilihan menggunakan checkBox dengan perhitungan otomatis</br>
+![](Foto/foto21.png)<p>ini hasil dari kode tersebut dan saya klik ayam goreng dan tahu goreng, akan muncul jumlahnya secara otomatis</p>
+![](Foto/foto22.png)
