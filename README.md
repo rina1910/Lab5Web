@@ -54,8 +54,9 @@
 ![](Foto/foto24.png)<p>kita menangkap nilai value dari form input dan memasukkannya kedalam variabel.
 ![](Foto/foto25.png)<p>dan kemudian mengecek masing - masing variabel.</p>
 ![](Foto/foto26.png)<p>Inilah hasil dari kode tersebut: </p>
-![](Foto/foto27.png)<p>saya akan isi semua formnya</p>
-![](Foto/foto28.png)<p>jika nama, email, alamat dan prodi diisi atau tidak kosong, maka akan dikembalikan nilai True pada form agar dapat di teruskan. 
+![](Foto/foto27.png)<p>saya akan isi semua formnya, jika nama, email, alamat dan prodi diisi atau tidak kosong, maka akan dikembalikan nilai True pada form agar dapat di teruskan</p>
+![](Foto/foto28.png)<p>jika nama, email, alamat dan prodi kosong maka tampilan akan seperti ini:</p>
+![](Foto/foto29.png)
 
 
 
