@@ -50,8 +50,12 @@
 1. Pertama tama saya membuat file dengan nama <b>form.html</b>
 
 2. Disini kita memerintahkan untuk menjalankan function validasi() saat form di submit.onSubmit="validasi()".</br>
-![](Foto/foto22.png)<br>yang mana function validasi sudah kita buat untuk mengecek inputan.<br>
-![](Foto/foto23.png)<p>kita menangkap nilai value dari form input dan memasukkannya kedalam variabel.
-![](Foto/foto24.png)
+![](Foto/foto23.png)<br>yang mana function validasi sudah kita buat untuk mengecek inputan.<br>
+![](Foto/foto24.png)<p>kita menangkap nilai value dari form input dan memasukkannya kedalam variabel.
+![](Foto/foto25.png)<p>dan kemudian mengecek masing - masing variabel.</p>
+![](Foto/foto26.png)<p>Inilah hasil dari kode tersebut: </p>
+![](Foto/foto27.png)<p>saya akan isi semua formnya</p>
+![](Foto/foto28.png)<p>jika nama, email, alamat dan prodi diisi atau tidak kosong, maka akan dikembalikan nilai True pada form agar dapat di teruskan. 
+
 
 
