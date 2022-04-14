@@ -1,0 +1,60 @@
+/* form.html */
+body {
+    background-color:#fff;
+    font-family:Arial, Helvetica, sans-serif;
+color:#FFF
+  }
+   
+  h2 {
+    color: #fff;
+  }
+
+  h1{
+    text-align: center;
+    color: blueviolet;
+  }
+
+  form {
+    border-style: solid;
+    border-color: blue;  
+    padding: 25px;
+    background-color: burlywood;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: absolute; 
+    right: 390px;
+    width: 35%; 
+}
+  .login {
+    padding: 1em;
+    margin: 2em auto;
+    width: 17em;
+    background: #fff;
+    border-radius: 3px;
+  }
+   
+  label {
+    font-size: 10pt;
+    color: #197a43;
+    width: 150px;
+    border: 3px 
+  }
+   
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    padding: 8px;
+    width: 95%;
+    background: #efefef;
+    border: 1px;
+    font-size: 10pt;
+    margin: 6px 0px;
+    border: 1px solid;
+  }
+   
+  .tombol {
+    background: #3498db;
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+  }

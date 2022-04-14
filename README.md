@@ -41,3 +41,17 @@
 6. <b>HTML DOM</b><br>Pilihan menggunakan checkBox dengan perhitungan otomatis</br>
 ![](Foto/foto21.png)<p>ini hasil dari kode tersebut dan saya klik ayam goreng dan tahu goreng, akan muncul jumlahnya secara otomatis</p>
 ![](Foto/foto22.png)
+
+# Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+
+# Dibawah ini terdapat script dan hasilnya dari pertanyaan tersebut
+
+1. Pertama tama saya membuat file dengan nama <b>form.html</b>
+
+2. Disini kita memerintahkan untuk menjalankan function validasi() saat form di submit.onSubmit="validasi()".</br>
+![](Foto/foto22.png)<br>yang mana function validasi sudah kita buat untuk mengecek inputan.<br>
+![](Foto/foto23.png)<p>kita menangkap nilai value dari form input dan memasukkannya kedalam variabel.
+![](Foto/foto24.png)
+
+
